@@ -1,6 +1,6 @@
 # German Verbs with Prepositions
 
-This repository hosts a meticulously curated dataset featuring approximately 300 German verbs along with their corresponding prepositions. The dataset is available in CSV format and is specifically tailored for integration with the Anki application to facilitate efficient language learning.
+This repository hosts a meticulously curated dataset featuring approximately 300 German verbs along with their corresponding prepositions. The dataset is available in both CSV format and .apkg file and is specifically tailored for integration with the Anki application to facilitate efficient language learning.
 
 ## About the Project
 The verbs compiled in this dataset have been gathered from various resources during my personal journey of learning the German language. With the assistance of ChatGPT, each verb has been translated into English and Persian, my native language. To enhance learning, each entry includes an example sentence showcasing the practical use of the verb with its preposition.
