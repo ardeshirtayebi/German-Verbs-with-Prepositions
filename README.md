@@ -1,1 +1,1 @@
-# German-Verbs-with-Prepositions
+# German Verbs with Prepositions
